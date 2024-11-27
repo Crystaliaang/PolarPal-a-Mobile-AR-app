@@ -1,0 +1,23 @@
+# Unity auto-generated files and folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# TextMesh Pro Examples (optional)
+Assets/TextMesh Pro/Examples & Extras/
+
+# Large media files
+*.mp4
+*.mov
+*.wav
+
+# Backup files
+*.bak
+*.tmp
+
+# macOS system files
+.DS_StoreAssets/Images for tracking/Video/Penguins_in_Antartica.mp4
