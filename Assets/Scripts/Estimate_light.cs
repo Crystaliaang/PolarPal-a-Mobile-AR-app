@@ -1,0 +1,44 @@
+using UnityEngine;
+using UnityEngine.XR.ARFoundation;
+using TMPro;
+
+public class Estimate_light : MonoBehaviour
+{
+    public ARCameraManager arcamman;
+    public TMP_Text brightness;
+    Light our_light;
+    void OnEnable()
+    {
+        arcamman.frameReceived += getlight;
+    }
+
+    void OnDisable()
+    {
+        arcamman.frameReceived -= getlight;
+    }
+    // Start is called before the first frame update
+    void Start()
+    {
+        our_light = GetComponent<Light>();
+
+    }
+
+    void Awake()
+    {
+        our_light = GetComponent<Light>();
+
+    }
+
+    void getlight(ARCameraFrameEventArgs args)
+    {
+        if (args.lightEstimation.averageBrightness.HasValue)
+        {
+            brightness.text = $"Brightness:{args.lightEstimation.averageBrightness.Value}";
+            //brightness.text=$"Color_value:{args.lightEstimation.mainLightColor.Value}";
+            //our_light.color = args.lightEstimation.mainLightColor.Value;
+            //float average_brightness = 0.2126f * our_light.color.r + 0.7152f * our_light.color.g + 0.0722f * our_light.color.b;
+            //brightness.text = average_brightness.ToString();
+        }
+    }
+
+}
