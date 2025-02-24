@@ -1,5 +1,5 @@
 # POLAR_PAL
-The application, named "PolAR Pal," features a 3D model penguin designed in Blender that interacts with the real-world environment and 3D objects through the AR camera functionality of Unity. It is and Augmented Reality application for iOS mobile devices using Unity and C# (ARkit and ARcore). 
+The application, named "PolAR Pal," features a 3D model penguin designed in Blender that interacts with the real-world environment and 3D objects through the AR camera functionality of Unity. It is an Augmented Reality application for iOS mobile devices using Unity and C# (ARkit and ARcore). 
 
 The  AR application has successfully implemented key features suc as plane detection, visual target placement, and joystick controls, creating an engaging and interactive experience for users. These functionalities allow users to navigate and interact with the virtual penguin within their real-world surroundings, providing an immersive and enjoyable AR experience. The incorporation of the weather API integration further enhances the educational aspect of the application, allowing users to observe and learn about the penguin’s reactions to different weather conditions. This promotes an understanding of the importance of preserving
 natural habitats and fosters a sense of environmental consciousness.
