@@ -4,7 +4,10 @@ The application, named "PolAR Pal," features a 3D model penguin designed in Blen
 The  AR application has successfully implemented key features suc as plane detection, visual target placement, and joystick controls, creating an engaging and interactive experience for users. These functionalities allow users to navigate and interact with the virtual penguin within their real-world surroundings, providing an immersive and enjoyable AR experience. The incorporation of the weather API integration further enhances the educational aspect of the application, allowing users to observe and learn about the penguin’s reactions to different weather conditions. This promotes an understanding of the importance of preserving
 natural habitats and fosters a sense of environmental consciousness.
 
-<iframe src="[https://drive.google.com/file/d/1amngZGipIV9-lRPCEpf6fibIDCAAaIuD/view?usp=sharing)" width="600" height="340" allow="autoplay"></iframe>
+
+https://github.com/user-attachments/assets/f0515a74-585e-441a-b1e1-20aa2cb5bed5
+
+
 
 The application includes the functionalities:
 
@@ -23,6 +26,12 @@ To further enhance the experience and add a bit of fun and fantasy, we went beyo
 
 **- Image Tracking**: Upon successful image recognition (in that case, the rejsekort was used), a virtual lake was placed automatically in the AR environment, and users were tasked with maneuvering the penguin character close to the lake. When the penguin was collided with the lake, the "Dive" button was enabled and by pressing it the penguin performed a captivating diving animation, creating a delightful conclusion to the user journey. This image-tracking feature showcased the application’s ability to merge virtual elements seamlessly with the real world, offering an engaging and interactive experience that highlighted the playful nature of the penguin character and added a sense of accomplishment to the user’s exploration.
 
+
+
+https://github.com/user-attachments/assets/77b90857-df09-48ea-94e5-6487ccf08012
+
+
+
 **- Light Estimation**: This feature has been implemented to simulate realistic lighting conditions and seamlessly integrate virtual
 objects into the real world. It enables virtual objects to interact with the environment’s lighting, shadows, and reflections enhancing the overall visual quality and realism of the AR experience. Light estima- tion involves analyzing the real-world environment captured by the device’s camera and extracting lighting information from it. This information includes the intensity, color temperature, and direction of the ambient light in the scene. Additionally, the brightness is displayed in the user interface (UI), making it accessible for future use and potential developments.
 
@@ -33,4 +42,10 @@ The Simulation screen offered users the opportunity to simulate various weather 
 of the penguin character. Through a set of interactive buttons, in- cluding Dive, Hello, Rain, Lay, and Hot, users could trigger different weather conditions, each accompanied by the penguin’s distinct
 reaction in the form of animated behavior. This simulation feature created a Wizard of Oz-like situation, enabling users to explore
 and experience how the penguin character interacted with different weather phenomena, fostering a deeper understanding of the animal’s behavior and adding an element of fun and discovery to the user’s engagement with the application.
+
+
+
+https://github.com/user-attachments/assets/4b35dfdd-8145-4171-ac05-b0b7a43a88f7
+
+
 
