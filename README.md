@@ -4,7 +4,7 @@ The application, named "PolAR Pal," features a 3D model penguin designed in Blen
 The  AR application has successfully implemented key features suc as plane detection, visual target placement, and joystick controls, creating an engaging and interactive experience for users. These functionalities allow users to navigate and interact with the virtual penguin within their real-world surroundings, providing an immersive and enjoyable AR experience. The incorporation of the weather API integration further enhances the educational aspect of the application, allowing users to observe and learn about the penguin’s reactions to different weather conditions. This promotes an understanding of the importance of preserving
 natural habitats and fosters a sense of environmental consciousness.
 
-<iframe src="[https://drive.google.com/file/d/YOUR_VIDEO_ID/preview](https://drive.google.com/file/d/1amngZGipIV9-lRPCEpf6fibIDCAAaIuD/view?usp=sharing)" width="600" height="340" allow="autoplay"></iframe>
+<iframe src="[https://drive.google.com/file/d/1amngZGipIV9-lRPCEpf6fibIDCAAaIuD/view?usp=sharing)" width="600" height="340" allow="autoplay"></iframe>
 
 The application includes the functionalities:
 
