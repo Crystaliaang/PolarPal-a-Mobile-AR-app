@@ -39,10 +39,12 @@ objects into the real world. It enables virtual objects to interact with the env
 
 **- Simulation**:
 The Simulation screen offered users the opportunity to simulate various weather conditions and observe the corresponding reactions
-of the penguin character. Through a set of interactive buttons, in- cluding Dive, Hello, Rain, Lay, and Hot, users could trigger different weather conditions, each accompanied by the penguin’s distinct
+of the penguin character. Through a set of interactive buttons, including Dive, Hello, Rain, Lay, and Hot, users could trigger different weather conditions, each accompanied by the penguin’s distinct
 reaction in the form of animated behavior. This simulation feature created a Wizard of Oz-like situation, enabling users to explore
 and experience how the penguin character interacted with different weather phenomena, fostering a deeper understanding of the animal’s behavior and adding an element of fun and discovery to the user’s engagement with the application.
 
+
+*This project was created with ME for a course. 
 
 
 https://github.com/user-attachments/assets/4b35dfdd-8145-4171-ac05-b0b7a43a88f7
